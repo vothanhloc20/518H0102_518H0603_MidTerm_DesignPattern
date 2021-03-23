@@ -1,0 +1,5 @@
+package SessionFacadePattern;
+
+public class Shape {
+
+}

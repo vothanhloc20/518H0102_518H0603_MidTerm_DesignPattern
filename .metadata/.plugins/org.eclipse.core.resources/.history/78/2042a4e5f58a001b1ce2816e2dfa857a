@@ -1,0 +1,8 @@
+package BusinessDelegatePattern;
+
+public class EJBService implements BusinessService {
+	@Override
+	public void doProcessing() {
+		System.out.println("SPLESSON - Processing task by invoking EJB Service");
+	}
+}
